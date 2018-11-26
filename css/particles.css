@@ -1,0 +1,14 @@
+canvas {
+  display: block;
+} /* ---- particles.js container ---- */
+#particles-js {
+  position: relative;
+  width: 99%;
+  height: 99vh;
+  background-color: #fff;
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  transition: margin-left 0.5s;
+}
